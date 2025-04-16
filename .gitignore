@@ -56,3 +56,7 @@ compile_commands.json
 
 # Jetbrains
 .idea/
+AshGameplayCore.vcxproj.filters
+AshGameplayCore.vcxproj
+AshCoreGameplay.sln
+Folder.DotSettings.user
